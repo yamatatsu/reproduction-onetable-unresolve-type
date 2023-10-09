@@ -1,0 +1,8 @@
+{
+  "name": "reproduction-onetable-unresolve-type",
+  "type": "module",
+  "dependencies": {
+    "dynamodb-onetable": "^2.7.1",
+    "typescript": "^5.2.2"
+  }
+}
